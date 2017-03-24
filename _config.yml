@@ -8,7 +8,7 @@ subtitle: Hexo is a fast, simple & powerful blog framework powered by Node.js.
 description: Hexo is a fast, simple & powerful blog framework powered by Node.js.
 author: SkyArrow
 email: tommy351@gmail.com
-language:
+language: zh-cn
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
